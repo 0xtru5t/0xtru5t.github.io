@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://ssh25621.github.io"
 
 github:
-  username: ssh25621 # change to your github username
+  username: 0xtru5t # change to your github username
 
 twitter:
   username:  # change to your twitter username
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your twitter homepage
-    - https://github.com/ssh25621 # change to your github homepage
+    - https://0xtru5t.github.io # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
